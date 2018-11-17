@@ -1,0 +1,9 @@
+rocketchat:
+  host: localhost:3000
+  user: username
+  rooms:
+  - general
+  - channelname
+  - groupname
+bouyomichan:
+  port: 8000

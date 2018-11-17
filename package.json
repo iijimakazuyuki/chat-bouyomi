@@ -1,0 +1,17 @@
+{
+  "name": "chat-streamer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazuyuki Iijima",
+  "license": "ISC",
+  "dependencies": {
+    "@rocket.chat/sdk": "^0.2.9",
+    "bouyomi-chan": "^1.0.0",
+    "inquirer": "^6.2.0",
+    "js-yaml": "^3.12.0"
+  }
+}
